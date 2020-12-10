@@ -15,7 +15,7 @@ La versión final del trabajo puede visualizarse en:
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, tenéis que poner el título del trabajo y el nombre de los componentes del equipo-->
 
-El título del trabajo es análisis de la oferta audiovisual de netfix.
+El título del trabajo es análisis de la oferta audiovisual de netflix.
 
 Los componentes del grupo son:
 Marta Oliver, Carlos Rodríguez, Mar Valldecabres.
