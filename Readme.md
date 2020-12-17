@@ -17,7 +17,7 @@ La versión final del trabajo puede visualizarse en:
 
 El título del trabajo es Análisis de la oferta audivisual de netflix.
 
-Los nombres de los componentes del equipo son: Marta Oliver, Carlos
-Rodriguez y Mar Valldecabres
+Los nombres de los componentes del equipo son: Marta Oliver Beltrán, Carlos
+Rodriguez Gonzalvo y Mar Valldecabres Lull.
 
 <!-- Finalmente, acuérdate que cuando hayas hecho los cambios y hayas dejado este archivo como hayáis decidido, TENEIS que knittearlo para que los cambio se actualicen en el fichero Readme.md, que es el que finalmente se visualizará en Github-->
